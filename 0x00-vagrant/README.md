@@ -1,4 +1,4 @@
-### 0x00. Vagrant
+# 0x00. Vagrant
 
 ## Learning Objectives
 What is a virtual machine
@@ -20,7 +20,7 @@ How to write helpful commit messages
 How to push code
 
 ## Prerequisites
-#**Install Vagrant on Mac OSx**
+### **Install Vagrant on Mac OSx**
 
 ```
 $ vagrant init ubuntu/trusty64
@@ -38,7 +38,7 @@ Enter virtual machine:
 $ vagrant ssh
 ```
 
-# Install Git
+### Install Git
 ```
 $ sudo apt-get update
 $ sudo apt-get upgrade
