@@ -20,7 +20,7 @@ How to write helpful commit messages
 How to push code
 
 ## Prerequisites
-### **Install Vagrant on Mac OSx**
+### Install Vagrant on Mac OSx
 
 ```
 $ vagrant init ubuntu/trusty64
