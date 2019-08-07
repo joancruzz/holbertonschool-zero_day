@@ -1,4 +1,4 @@
-###0x00. Vagrant
+### 0x00. Vagrant
 
 ## Learning Objectives
 What is a virtual machine
