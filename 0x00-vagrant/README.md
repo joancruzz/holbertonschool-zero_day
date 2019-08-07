@@ -1,7 +1,6 @@
-0x00. Vagrant
+###0x00. Vagrant
 
-Learning Objectives
-What is a zero-day
+## Learning Objectives
 What is a virtual machine
 What is Vagrant
 Who wrote Vagrant
@@ -19,3 +18,29 @@ How to write good READMEs
 How to commit
 How to write helpful commit messages
 How to push code
+
+## Prerequisites
+#**Install Vagrant on Mac OSx**
+
+```
+$ vagrant init ubuntu/trusty64
+```
+Fill in with desired base:
+```
+base = "ubuntu/trusty64"
+```
+Start your virtual machine:
+```
+$ vagrant up
+```
+Enter virtual machine:
+```
+$ vagrant ssh
+```
+
+# Install Git
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
+```
