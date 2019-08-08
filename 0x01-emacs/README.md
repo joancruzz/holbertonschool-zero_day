@@ -1,17 +1,17 @@
 # 0x01. Emacs
 
 ## Learning Objectives
-1.  What is Emacs
-2.  Who is Richard Stallman
-3.  How to open and save files
-4.  What is a buffer and how to switch from one to the other
-5.  How to use the mark and the point to set the region
-6.  How to cut and paste lines and regions
+1.  What is Emacs?
+2.  Who is Richard Stallman?
+3.  How to open and save files.
+4.  What is a buffer and how to switch from one to the other?
+5.  How to use the mark and the point to set the region.
+6.  How to cut and paste lines and regions.
 7.  How to search forward and backward8.
-8.  How to invoke commands by name
-9.  How to undo
-10. How to cancel half-entered commands
-11. How to quit Emacs
+8.  How to invoke commands by name.
+9.  How to undo.
+10. How to cancel half-entered commands.
+11. How to quit Emacs.
 
 ## Prerequisites
 ### Install Emacs
