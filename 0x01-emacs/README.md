@@ -7,7 +7,7 @@
 4.  What is a buffer and how to switch from one to the other?
 5.  How to use the mark and the point to set the region.
 6.  How to cut and paste lines and regions.
-7.  How to search forward and backward8.
+7.  How to search forward and backward.
 8.  How to invoke commands by name.
 9.  How to undo.
 10. How to cancel half-entered commands.
