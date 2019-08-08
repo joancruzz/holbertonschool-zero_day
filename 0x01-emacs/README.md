@@ -20,6 +20,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install emacs
 ```
+## Tasks
 ### 0. Opening
 What is the command to open a file from within Emacs?
 ### 1. Saving
