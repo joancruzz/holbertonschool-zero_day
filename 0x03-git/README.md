@@ -22,7 +22,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
 ```
-Type *Y* and press *ENTER*.
+Type **Y and press **ENTER.
 
 ## Tasks
 ### 1. Coding fury road
